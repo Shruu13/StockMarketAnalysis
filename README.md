@@ -3,8 +3,8 @@ The Python project involves analyzing historical stock market data, identifying 
 
 ## Table of Contents
 Below is a list of the projects included in this repository:
-1. [Stock Market Analysis](#https://github.com/Shruu13/StockMarketAnalysis/blob/main/StockMarket%20Analysis.ipynb)
-2. [Stock Price Prediction](#https://github.com/Shruu13/StockMarketAnalysis/blob/main/Stock%20Price%20Prediction.ipynb)
+1. [Stock Market Analysis](https://github.com/Shruu13/StockMarketAnalysis/blob/main/StockMarket%20Analysis.ipynb)
+2. [Stock Price Prediction](https://github.com/Shruu13/StockMarketAnalysis/blob/main/Stock%20Price%20Prediction.ipynb)
 
 ## How to Use
 Each project has its own folder containing the project code, data, and documentation. To use any of the projects, simply clone the repository and navigate to the project folder of interest. Each project also includes a README file with instructions on how to run the code and reproduce the results.
